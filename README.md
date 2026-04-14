@@ -21,9 +21,9 @@ label-studio start
 * Upload downloaded annotated data into the working directory
 
 ### Training on Google Colab
-[fruit-yolo notebook](Yolo_fruit_model_from_scratch.ipynb)
-[yolo-lecture notebook](Train_YOLO_Models.ipynb)
-[Streamlit_app](my_model\yolo_streamlit_app.py)
+* [fruit-yolo notebook](Yolo_fruit_model_from_scratch.ipynb)
+* [yolo-lecture notebook](Train_YOLO_Models.ipynb)
+* [Streamlit_app](my_model\yolo_streamlit_app.py)
 
 ### Run Inference Locally
 ```bash
